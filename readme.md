@@ -2,8 +2,6 @@
 
 ![Hello](https://tenor.com/view/wumpus-discord-wave-gif-22734774)
 
-<div class="tenor-gif-embed" data-postid="22734774" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/wumpus-discord-wave-gif-22734774"></a> <a href="https://tenor.com/search/wumpus-stickers"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 Welcome to the Node.js Internship repository! This repository contains all the materials, resources, and projects related to the Node.js internship program. Whether you're new to Node.js or looking to enhance your skills, this repository has something for everyone.
 
 ![Node.js Internship](https://github.com/devc5622/Node_JS_Internship/blob/main/assets/nodejs-internship-banner.jpg)
