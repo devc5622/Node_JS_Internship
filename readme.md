@@ -1,5 +1,6 @@
 # Node.js Internship Repository
 
+![Hello](https://tenor.com/view/wumpus-discord-wave-gif-22734774)
 Welcome to the Node.js Internship repository! This repository contains all the materials, resources, and projects related to the Node.js internship program. Whether you're new to Node.js or looking to enhance your skills, this repository has something for everyone.
 
 ![Node.js Internship](https://github.com/devc5622/Node_JS_Internship/blob/main/assets/nodejs-internship-banner.jpg)
@@ -12,7 +13,7 @@ Welcome to the Node.js Internship program! This internship is designed to provid
 
 To get started with the internship, follow these steps:
 **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
-git clone https://github.com/devc5622/Node_JS_Internship.git
+`git clone https://github.com/devc5622/Node_JS_Internship.git`
 
 **Explore:** Navigate through the various folders and files in the repository to access lessons, assignments, and project instructions.
 
