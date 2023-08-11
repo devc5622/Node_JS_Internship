@@ -1,10 +1,8 @@
-# Node.js Internship Repository
-
-![Hello](https://github.com/devc5622/Node_JS_Internship/blob/main/assets/wave.gif)
-
 <p align="center">
   <img src="https://github.com/devc5622/Node_JS_Internship/blob/main/assets/wave.gif" alt="Hello_Wumpus" />
 </p>
+
+# Node.js Internship Repository
 
 Welcome to the Node.js Internship repository! This repository contains all the materials, resources, and projects related to the Node.js internship program. Whether you're new to Node.js or looking to enhance your skills, this repository has something for everyone.
 
